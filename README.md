@@ -30,7 +30,7 @@ npm run test:unit
 npm run build
 ```
 
-## Tooling
+### Tooling
 
 [VSCodium](https://vscodium.com/) + [Volar](https://open-vsx.org/extension/Vue/volar) (not Vetur) is the recommended setup _(mine, at least)_.
 
